@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">almacenamiento sd</string>
+    <string name="edit1">Ingrese el nombre de archivo:</string>
+    <string name="cont">Contenido</string>
+    <string name="boton1">Guadar</string>
+    <string name="boton2">Recuperar</string>
+
+</resources>
